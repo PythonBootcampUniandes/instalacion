@@ -32,52 +32,52 @@ los valores por defecto donde se requiera:
 
 **Pantalla Inicial:**
 
-![ini](/../capturas/windowsInicial.png?raw=true)
+![ini](/../master/capturas/windowsInicial.png?raw=true)
 
 **Licencia:**
 
-![lic](/../capturas/windowsLicencia.png?raw=true)
+![lic](/../master/capturas/windowsLicencia.png?raw=true)
 
 **Preferencias de instalación (usuario):**
 
-![pref](/../capturas/windowsPref.png?raw=true)
+![pref](/../master/capturas/windowsPref.png?raw=true)
 
 **Nota:** Se recomienda que la instalación se realice solo para el usuario
 actual para evitar problemas con los permisos de administrador posteriormente.
 
 **Preferencias de instalación (ubicación):**
 
-![dir](/../capturas/windowsDir.png?raw=true)
+![dir](/../master/capturas/windowsDir.png?raw=true)
 
 **Preferencias de instalación (variables de entorno):**
 
-![path](/../capturas/windowsPath.png?raw=true)
+![path](/../master/capturas/windowsPath.png?raw=true)
 
 **Instalación completa y finalización:**
 
-![com](/../capturas/windowsComp.png?raw=true)
+![com](/../master/capturas/windowsComp.png?raw=true)
 
-![fin](/../capturas/windowsFinish.png?raw=true)
+![fin](/../master/capturas/windowsFinish.png?raw=true)
 
 **4.** Finalizada la instalación verfique que tanto `Spyder` como `Jupyter
 Notebook` están instalados. Para esto puede dirigirse al menu de inicio
 
 **Spyder**
 
-![spyder](/../capturas/spyder.png?raw=true)
+![spyder](/../master/capturas/spyder.png?raw=true)
 
-![spyderini](/../capturas/spyderIni.png?raw=true)
+![spyderini](/../master/capturas/spyderIni.png?raw=true)
 
-![spyderini2](/../capturas/spyderIni2.png?raw=true)
+![spyderini2](/../master/capturas/spyderIni2.png?raw=true)
 
 
 **Jupyter Notebook**
 
-![notebook](/../capturas/notebook.png?raw=true)
+![notebook](/../master/capturas/notebook.png?raw=true)
 
-![notebookini](/../capturas/notebookIni.png?raw=true)
+![notebookini](/../master/capturas/notebookIni.png?raw=true)
 
-![notebookini2](/../capturas/notebookIni2.png?raw=true)
+![notebookini2](/../master/capturas/notebookIni2.png?raw=true)
 
 
 ## MacOS
