@@ -39,13 +39,41 @@ Para la realización del Bootcamp se aconseja la instalación de Anaconda. A con
 
 ![fin](/../dalthviz-guia-instalacion/capturas/windowsFinish.png?raw=true)
 
-**4.** Finalizada la instalación verfique que tanto Spyder como Jupyter Notebook están instalados. Para esto puede dirigirse al menu de inicio
+**4.** Finalizada la instalación verfique que tanto `Spyder` como `Jupyter Notebook` están instalados. Para esto puede dirigirse al menu de inicio
+
+**Spyder**
+
+![spyder](/../dalthviz-guia-instalacion/capturas/spyder.png?raw=true)
+
+![spyderini](/../dalthviz-guia-instalacion/capturas/spyderIni.png?raw=true)
+
+![spyderini2](/../dalthviz-guia-instalacion/capturas/spyderIni2.png?raw=true)
+
+
+**Jupyter Notebook**
+
+![notebook](/../dalthviz-guia-instalacion/capturas/notebook.png?raw=true)
+
+![notebookini](/../dalthviz-guia-instalacion/capturas/notebookIni.png?raw=true)
+
+![notebookini2](/../dalthviz-guia-instalacion/capturas/notebookIni2.png?raw=true)
+
 
 ## MacOS
 
 **1.** Descargar la versión gráfica del instaldor de Anaconda asociada a la versión 3.x de Python. [Aquí encuentra la página de descarga](https://www.continuum.io/downloads#osx)
 
 **2.** Luego de finalizada la descarga del instalador, de doble clic sobre el mismo (archivo `.pkg`), acepte el contrato de licencia y de siguiente dejando los valores por defecto.
+
+**4.** Compruebe que tanto `Spyder` como `Jupyter Notebook` estan instalados corriendolos desde una terminal:
+
+```
+spyder
+```
+
+```
+jupyter notebook
+```
 
 ## Linux
 
@@ -64,6 +92,16 @@ bash Anaconda3-4.3.1-Linux-x86.sh
 ```
 
 **3.** Siga los pasos del instalador con los valores por defecto.
+
+**4.** Compruebe que tanto `Spyder` como `Jupyter Notebook` estan instalados corriendolos desde una terminal:
+
+```
+spyder
+```
+
+```
+jupyter notebook
+```
 
 ## Referencia
 
