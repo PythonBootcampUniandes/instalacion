@@ -5,9 +5,11 @@ Para la realización del Bootcamp se aconseja la instalación de Anaconda. A con
 
 ## Windows
 
-**1.** Descargar la versión apropiada (32 o 64 bits) de Anaconda asociada a la versión 3.x de Python. En caso de no estar seguro de la versión de Windows instalada puede descargar la versión de 32 bits sin problema. [Aquí encuentra la página de descarga](https://www.continuum.io/downloads#windows)
+**1.** Como paso inicial al proceso de instalación se recomienda verificar que su nombre de usuario en Windows no tenga espacios ni caracteres como tildes, comas, apóstrofes o eñes. Esto debido a que se pueden generar errores de codificación.
 
-**2.** Luego de finalizada la descarga del instalador, de doble clic sobre el mismo (archivo `.exe`), acepte el contrato de licencia y de siguiente dejando los valores por defecto donde se requiera:
+**2.** Descargar la versión apropiada (32 o 64 bits) de Anaconda asociada a la versión 3.x de Python. En caso de no estar seguro de la versión de Windows instalada puede descargar la versión de 32 bits sin problema. [Aquí encuentra la página de descarga](https://www.continuum.io/downloads#windows)
+
+**3.** Luego de finalizada la descarga del instalador, de doble clic sobre el mismo (archivo `.exe`), acepte el contrato de licencia y de siguiente dejando los valores por defecto donde se requiera:
 
 **Pantalla Inicial:**
 
@@ -37,6 +39,14 @@ Para la realización del Bootcamp se aconseja la instalación de Anaconda. A con
 
 ![fin](/../dalthviz-guia-instalacion/capturas/windowsFinish.png?raw=true)
 
+**4.** Finalizada la instalación verfique que tanto Spyder como Jupyter Notebook están instalados. Para esto puede dirigirse al menu de inicio
+
+## MacOS
+
+**1.** Descargar la versión gráfica del instaldor de Anaconda asociada a la versión 3.x de Python. [Aquí encuentra la página de descarga](https://www.continuum.io/downloads#osx)
+
+**2.** Luego de finalizada la descarga del instalador, de doble clic sobre el mismo (archivo `.pkg`), acepte el contrato de licencia y de siguiente dejando los valores por defecto.
+
 ## Linux
 
 **1.** Descargar la versión apropiada (32 o 64 bits) de Anaconda asociada a la versión 3.x de Python. En caso de no estar seguro de la versión de linux instalada puede descargar la versión de 32 bits sin problema. [Aquí encuentra la página de descarga](https://www.continuum.io/downloads#linux)
@@ -54,12 +64,6 @@ bash Anaconda3-4.3.1-Linux-x86.sh
 ```
 
 **3.** Siga los pasos del instalador con los valores por defecto.
-
-## MacOS
-
-**1.** Descargar la versión gráfica del instaldor de Anaconda asociada a la versión 3.x de Python. [Aquí encuentra la página de descarga](https://www.continuum.io/downloads#osx)
-
-**2.** Luego de finalizada la descarga del instalador, de doble clic sobre el mismo (archivo `.pkg`), acepte el contrato de licencia y de siguiente dejando los valores por defecto.
 
 ## Referencia
 
