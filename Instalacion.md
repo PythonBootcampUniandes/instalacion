@@ -32,52 +32,52 @@ los valores por defecto donde se requiera:
 
 **Pantalla Inicial:**
 
-![ini](/../dalthviz-guia-instalacion/capturas/windowsInicial.png?raw=true)
+![ini](/../capturas/windowsInicial.png?raw=true)
 
 **Licencia:**
 
-![lic](/../dalthviz-guia-instalacion/capturas/windowsLicencia.png?raw=true)
+![lic](/../capturas/windowsLicencia.png?raw=true)
 
 **Preferencias de instalación (usuario):**
 
-![pref](/../dalthviz-guia-instalacion/capturas/windowsPref.png?raw=true)
+![pref](/../capturas/windowsPref.png?raw=true)
 
 **Nota:** Se recomienda que la instalación se realice solo para el usuario
 actual para evitar problemas con los permisos de administrador posteriormente.
 
 **Preferencias de instalación (ubicación):**
 
-![dir](/../dalthviz-guia-instalacion/capturas/windowsDir.png?raw=true)
+![dir](/../capturas/windowsDir.png?raw=true)
 
 **Preferencias de instalación (variables de entorno):**
 
-![path](/../dalthviz-guia-instalacion/capturas/windowsPath.png?raw=true)
+![path](/../capturas/windowsPath.png?raw=true)
 
 **Instalación completa y finalización:**
 
-![com](/../dalthviz-guia-instalacion/capturas/windowsComp.png?raw=true)
+![com](/../capturas/windowsComp.png?raw=true)
 
-![fin](/../dalthviz-guia-instalacion/capturas/windowsFinish.png?raw=true)
+![fin](/../capturas/windowsFinish.png?raw=true)
 
 **4.** Finalizada la instalación verfique que tanto `Spyder` como `Jupyter
 Notebook` están instalados. Para esto puede dirigirse al menu de inicio
 
 **Spyder**
 
-![spyder](/../dalthviz-guia-instalacion/capturas/spyder.png?raw=true)
+![spyder](/../capturas/spyder.png?raw=true)
 
-![spyderini](/../dalthviz-guia-instalacion/capturas/spyderIni.png?raw=true)
+![spyderini](/../capturas/spyderIni.png?raw=true)
 
-![spyderini2](/../dalthviz-guia-instalacion/capturas/spyderIni2.png?raw=true)
+![spyderini2](/../capturas/spyderIni2.png?raw=true)
 
 
 **Jupyter Notebook**
 
-![notebook](/../dalthviz-guia-instalacion/capturas/notebook.png?raw=true)
+![notebook](/../capturas/notebook.png?raw=true)
 
-![notebookini](/../dalthviz-guia-instalacion/capturas/notebookIni.png?raw=true)
+![notebookini](/../capturas/notebookIni.png?raw=true)
 
-![notebookini2](/../dalthviz-guia-instalacion/capturas/notebookIni2.png?raw=true)
+![notebookini2](/../capturas/notebookIni2.png?raw=true)
 
 
 ## MacOS
